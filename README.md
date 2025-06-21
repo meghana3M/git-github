@@ -69,7 +69,7 @@ remote => github
   2. case 2 : commited changes(for one commit) ===>  git reset HEAD~1
   3. case 3 : commited changes (for many commits) ====>  git reset <  commit hash  >git reseet --hard < commit hash >
 
-* **Fork :** new repo that shares code and visibility settings with original ""upstream "" repo , fork is a rough copy .
+* **Fork :** new repo that shares code and visibility settings with original ""upstream "" repo , fork is a rough copy 
 
 
 
