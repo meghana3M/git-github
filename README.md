@@ -29,7 +29,11 @@ official website : https://github.com
 local => our laptop / pc
 
 remote => github
-
+* **clone and status**
+* 1. git clone <  link of https   > : this command is used to  clone the files present in github to vscode
+  2. git status : to know the status of the file , what are the files present which data is deleted etc..... , displays the status of the code
+  3. ls : list of items present in the folder
+  4. ls -a : all the items present in the folder including the hidden files
 
 * **add ----> commit**
   **git status :**
@@ -64,10 +68,7 @@ remote => github
   1. case 1 : staged changes  ==> git reset <  filename  >
   2. case 2 : commited changes(for one commit) ===>  git reset HEAD~1
   3. case 3 : commited changes (for many commits) ====>  git reset <  commit hash  >git reseet --hard < commit hash >
-* **clone and status**1. git clone <  link of https   > : this command is used to  clone the files present in github to vscode
-  2. git status : to know the status of the file , what are the files present which data is deleted etc..... , displays the status of the code
-  3. ls : list of items present in the folder
-  4. ls -a : all the items present in the folder including the hidden files
+
 * **Fork :** new repo that shares code and visibility settings with original ""upstream "" repo , fork is a rough copy .
 
 
